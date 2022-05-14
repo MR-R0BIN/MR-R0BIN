@@ -1,6 +1,6 @@
 ### Hi there 👋, MY NAME IS ROBIN
 #### I am GitHub UPDATE Generator's creator
-![Github cover](https://web.fachttps://user-images.githubusercontent.com/102288069/168412688-cb4f92be-8ead-4608-97a8-21c085bd47fd.jpg)
+
 
 
 Hey 
